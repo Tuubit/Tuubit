@@ -7,6 +7,7 @@ Tuubit
 
 2-bit? tube-it!
 
+##TOC
 * auto-gen TOC:
 {:toc}
 
