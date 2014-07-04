@@ -2,14 +2,11 @@
 layout: index
 ---
 
-Tuubit
-======
-
-2-bit? tube-it!
-
-##TOC
+###TOC
 * auto-gen TOC:
 {:toc}
+
+---
 
 #H1
 
