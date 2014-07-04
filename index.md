@@ -2,7 +2,7 @@
 layout: index
 ---
 
-###TOC
+__Table of Contents__
 * auto-gen TOC:
 {:toc}
 
