@@ -6,7 +6,10 @@
     <title>Tuubit by Tuubit</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    
     <script src="javascripts/respond.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -43,6 +46,20 @@
 
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+    <script>
+    $(function() {
+      return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+        var $el, icon, id;
+        $el = $(el);
+        id = $el.attr('id');
+        icon = '<i class="fa fa-link"></i>';
+        if (id) {
+          return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+        }
+      });
+    });
+    </script>
     
   </body>
 </html>
