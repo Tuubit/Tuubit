@@ -23,4 +23,4 @@ __Table of Contents__
 
 ![the logo][logo]
 
-[logo]: https://avatars3.githubusercontent.com/u/7654528?s=140 "The Logo"
+[logo]: https://avatars3.githubusercontent.com/u/7654528?s=140 "The Logo" =100x
