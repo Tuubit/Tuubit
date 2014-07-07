@@ -21,6 +21,10 @@ __Table of Contents__
 
 ###H3-2
 
-![the logo][logo =100x]
+![the logo][logo]
 
 [logo]: https://avatars3.githubusercontent.com/u/7654528?s=140 "The Logo"
+
+vs
+
+![the logo](https://avatars3.githubusercontent.com/u/7654528?s=140 =100x)
