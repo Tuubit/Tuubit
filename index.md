@@ -27,4 +27,4 @@ __Table of Contents__
 
 vs
 
-![the logo](https://avatars3.githubusercontent.com/u/7654528?s=140 =100x)
+![the logo](https://avatars3.githubusercontent.com/u/7654528?s=140 =100x100)
