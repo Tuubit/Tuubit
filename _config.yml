@@ -1,11 +1,8 @@
 markdown: kramdown
 
-redcarpet:
-  extensions: ["with_toc_data", "autolink"]
-
 kramdown:
   auto_ids: true
-  autolink: true
   input: GFM
 
-gems: ["autolink"]
+redcarpet:
+  extensions: ["with_toc_data", "autolink"]
