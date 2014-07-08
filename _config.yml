@@ -5,4 +5,5 @@ redcarpet:
 
 kramdown:
   auto_ids: true
+  autolink: true
   input: GFM
