@@ -1,8 +1,7 @@
 markdown: redcarpet
 
 redcarpet:
-  extensions: ["with_toc_data"]
-  autolink: true
+  extensions: ["with_toc_data", "autolink"]
 
 kramdown:
   auto_ids: true
