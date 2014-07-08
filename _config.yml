@@ -2,6 +2,7 @@ markdown: redcarpet
 
 redcarpet:
   extensions: ["with_toc_data"]
+  autolink: true
 
 kramdown:
   auto_ids: true
