@@ -1,10 +1,3 @@
-__Table of Contents__
-
-* auto-gen TOC:
-{:toc}
-
----
-
 #H1
 
 ##H2
@@ -24,3 +17,8 @@ __Table of Contents__
 https://github.com/Tuubit
 
 https://github.com/Tuubit/Tuubit
+
+Lists:
+* 1
+* 2
+* 3
